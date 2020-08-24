@@ -14,7 +14,7 @@ baseurl = "https://kafcol.netlify.app/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; {year} Kathmandu Forestry College (KAFCOL)"
+copyright = "&copy; {year} [Kathmandu Forestry College (KAFCOL)] (https://www.kafcol.edu.np)"
 
 ############################
 ## Advanced options below ##

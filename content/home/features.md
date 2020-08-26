@@ -30,7 +30,7 @@ subtitle = "For researchers, educators, and learners documenting _anything_ ✨"
   icon = "list-alt"
   icon_pack = "fas"
   name = "Online Resources"
-  description = "For teaching, extension and broader dissimination"
+  description = "For teaching, extension and dissimination"
 
 # Uncomment to use emoji icons.
 # [[feature]]

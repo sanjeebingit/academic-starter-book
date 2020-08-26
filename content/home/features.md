@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Features"
-subtitle = "Document _anything_ ✨"
+title = "Kathmandu Forestry College (KAFCOL) Online Documentation Hub for Educators"
+subtitle = "For documenting _anything_ ✨"
 
 # Showcase features.
 # 
@@ -18,19 +18,19 @@ subtitle = "Document _anything_ ✨"
   icon = "book-open"
   icon_pack = "fas"
   name = "Project Documentation"
-  description = "For users"
+  description = "For project partners"
   
 [[feature]]
   icon = "question"
   icon_pack = "fas"
   name = "Knowledge Base"
-  description = "For teams"  
+  description = "For research teams"  
   
 [[feature]]
   icon = "list-alt"
   icon_pack = "fas"
-  name = "Personal Notebook"
-  description = "For yourself"
+  name = "Online Resources"
+  description = "For teaching, extension and broader dissimination"
 
 # Uncomment to use emoji icons.
 # [[feature]]

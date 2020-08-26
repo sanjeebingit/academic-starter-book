@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Kathmandu Forestry College (KAFCOL) Online Documentation Hub for Educators"
-subtitle = "For documenting _anything_ ✨"
+title = "Kathmandu Forestry College (KAFCOL) <br/> Online Documentation Hub"
+subtitle = "For researchers, educators, and learners documenting _anything_ ✨"
 
 # Showcase features.
 # 
